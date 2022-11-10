@@ -1,12 +1,13 @@
-[![StavRabinovich](https://github.com/StavRabinovich/StavRabinovich/blob/main/StavRabinovich.gif)]
+![StavRabinovich](https://github.com/StavRabinovich/StavRabinovich/blob/main/StavRabinovich.gif)
 
 # About Me
-B.Sc Software Engineering Graduate, AI & ML major, GPA 84. :mortar_board:
-Former chairwoman of Afeka Students' Union. 
+B.Sc Software Engineering Graduate, AI & ML major, GPA 84. :mortar_board:\
+Former chairwoman of Afeka Students' Union. \
 **Looking for a software development opportunity**
 
 ### You can always find me here 
-social media
+[![LinkedIn](https://cdn-icons-png.flaticon.com/512/174/174857.png)](https://www.linkedin.com/in/stav-rabinovich/)
+
 
 ## Skills & Technologies
 | |
