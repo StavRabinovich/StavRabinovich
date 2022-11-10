@@ -6,7 +6,7 @@ Former chairwoman of Afeka Students' Union. \
 **Looking for a software development opportunity**
 
 ### You can always find me here 
-[![LinkedIn](https://cdn-icons-png.flaticon.com/512/174/174857.png)](https://www.linkedin.com/in/stav-rabinovich/)
+[![LinkedIn](https://www.flaticon.com/free-icon/linkedin_174857)](https://www.linkedin.com/in/stav-rabinovich/)
 
 
 ## Skills & Technologies
