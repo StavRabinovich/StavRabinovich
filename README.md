@@ -6,11 +6,13 @@ Former chairwoman of Afeka Students' Union. \
 **Looking for a software development opportunity**
 
 ### You can always find me here 
-[![LinkedIn](https://brand.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg)](https://www.linkedin.com/in/stav-rabinovich/)
+[![LinkedIn](https://github.com/StavRabinovich/StavRabinovich/blob/main/icons/linkedin.png)](https://www.linkedin.com/in/stav-rabinovich/)
+[![Email](https://github.com/StavRabinovich/StavRabinovich/blob/main/icons/gmail.png)](mailto:stavrab@gmail.com)
+[![Facebook](https://github.com/StavRabinovich/StavRabinovich/blob/main/icons/facebook.png)](https://www.facebook.com/stav.rabinovich/)
 
 
 ## Skills & Technologies
-| |
+| | |
 |--- | --- |
 | **Languages**	|   ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)                    ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396) ![C](https://img.shields.io/badge/-C-000?&logo=C) ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)|
 | **Subjects**	| ![Object-Oriented Programming (OOP)](https://img.shields.io/badge/-Object--Oriented%20Programming%20-blue) ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-blue) ![Computer Vision](https://img.shields.io/badge/-Computer%20Vision-blue)![Mobile & Web Development (Front-End)](https://img.shields.io/badge/Mobile%20%26%20Web%20Development%20(Front--End)-blue) 
